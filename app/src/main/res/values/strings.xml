@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotiSprite</string>
+    <string name="tagline">Pixel-art notification sprites for AMOLED screens</string>
+    <string name="notification_listener_label">NotiSprite notification access</string>
+
+    <string name="section_permissions">Permissions</string>
+    <string name="notification_access_title">Notification access</string>
+    <string name="notification_access_description">Required to see incoming notifications and pick a sprite for each app.</string>
+    <string name="overlay_title">Display over other apps</string>
+    <string name="overlay_description">Required to draw sprites over the dark screen while it is off or locked.</string>
+
+    <string name="status_granted">Granted</string>
+    <string name="status_missing">Not granted</string>
+
+    <string name="grant_notification_access">Grant notification access</string>
+    <string name="grant_overlay">Grant overlay access</string>
+
+    <string name="m0_build_note">Scaffolding build · M0\nOverlay, sprite engine and protections land in later milestones.</string>
+</resources>
